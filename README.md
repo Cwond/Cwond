@@ -56,7 +56,6 @@ location : Seoul, Korea 🇰🇷
 ---
 
 
----
 
 <!-- SKILLS -->
 ## 🧠 Tech & Tools
@@ -124,10 +123,8 @@ location : Seoul, Korea 🇰🇷
 
 <div align="center">
 
-[![Email]
-(https://img.shields.io/badge/Email-cdw94280@naver.com-0d1117?style=for-the-badge&logo=naver&logoColor=03C75A&labelColor=0d1117)](mailto:cdw94280@naver.com)
-[![GitHub]
-(https://img.shields.io/badge/GitHub-Cwond-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/Cwond)
+[![Email](https://img.shields.io/badge/Email-cdw94280@naver.com-0d1117?style=for-the-badge&logo=naver&logoColor=03C75A&labelColor=0d1117)](mailto:cdw94280@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Cwond-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/Cwond)
 
 <br>
 

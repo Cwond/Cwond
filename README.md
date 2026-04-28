@@ -28,26 +28,25 @@
 
 ### 🧬 Identity Stack
 
-```yaml
-name     : Dongwon Choi (최동원)
-role     : Sports Marketer
-school   : 한국외국어대학교
-major    : 글로벌스포츠산업학부
-minor    : 컴퓨터공학 (이중전공)
-year     : 3학년
-location : Seoul, Korea 🇰🇷
-```
+<br><br>
+
+🎓 &nbsp; 한국외국어대학교<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 글로벌스포츠산업학부 3학년<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터공학 이중전공<br><br>
+⚽ &nbsp; I-WAY 아마추어축구단 마케팅팀장<br><br>
+📍 &nbsp; Seoul, Korea
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="left" valign="top" style="padding: 0 0 0 16px;">
 
-### 🏆 Credentials
+<img src="https://img.shields.io/badge/-Credentials-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e&logoColor=C9B99A" />
 
-```
-🟢  SQLD                   
-🟢  사회조사분석사 2급         
-🔵  I-WAY 아마추어축구단 마케팅팀장       
-```
+<br><br>
+
+🏅 &nbsp; SQLD &nbsp; <br><br>
+🏅 &nbsp; 사회조사분석사 2급 &nbsp; <br><br>
+🔗 &nbsp; 스포츠 산업 × 데이터 × 마케팅
+
 
 </td>
 </tr>

@@ -1,8 +1,3 @@
-<!-- ============================================================
-     DONGWON CHOI — GitHub Profile README
-     Sports Marketing × Data × Tech
-     ============================================================ -->
-
 <!-- HEADER -->
 <div align="center">
 
@@ -14,124 +9,167 @@
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=80&lines=⚽+Sports+Experience+Designer;📊+Fan+Behavior+Data+Analyst;🤝+Sponsorship+%26+Brand+Strategist)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
-<!-- ABOUT ME SECTION -->
-<table align="center" width="90%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 Identity Stack
-
-<br><br>
-
-🎓 &nbsp; 한국외국어대학교<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 글로벌스포츠산업학부 3학년<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터공학 이중전공<br><br>
-⚽ &nbsp; I-WAY 아마추어축구단 마케팅팀장<br><br>
-📍 &nbsp; Seoul, Korea
-
-</td>
-<td width="50%" align="left" valign="top" style="padding: 0 0 0 16px;">
-
-<img src="https://img.shields.io/badge/-Credentials-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e&logoColor=C9B99A" />
-
-<br><br>
-
-🏅 &nbsp; SQLD &nbsp; <br><br>
-🏅 &nbsp; 사회조사분석사 2급 &nbsp; <br><br>
-🔗 &nbsp; 스포츠 산업 × 데이터 × 마케팅
-
-
-</td>
-</tr>
-</table>
-
 ---
 
-
-
-<!-- SKILLS -->
-## 🧠 Tech & Tools
+<!-- ABOUT -->
 
 <div align="center">
 
-#### 📐 Programming & Data
+<br>
+
+### 👤 &nbsp; About
+
+<br>
+
+🎓 &nbsp; 한국외국어대학교 &nbsp; · &nbsp; 글로벌스포츠산업학부 3학년 &nbsp; · &nbsp; 컴퓨터공학 이중전공
+
+<br>
+
+⚽ &nbsp; I-WAY 아마추어축구단 마케팅팀장 &nbsp;&nbsp;&nbsp; 📍 &nbsp; Seoul, Korea
+
+<br><br>
+
+![SQLD](https://img.shields.io/badge/%F0%9F%8F%85%20SQLD%20%E2%80%94%20%EC%B7%A8%EB%93%9D%20%EC%99%84%EB%A3%8C-111827?style=flat-square&logoColor=00ff88)
+&nbsp;&nbsp;
+![사회조사분석사](https://img.shields.io/badge/%F0%9F%8F%85%20%EC%82%AC%ED%9A%8C%EC%A1%B0%EC%82%AC%EB%B6%84%EC%84%9D%EC%82%AC%202%EA%B8%89%20%E2%80%94%20%EC%B7%A8%EB%93%9D%20%EC%99%84%EB%A3%8C-111827?style=flat-square&logoColor=00ff88)
+
+<br><br>
+
+> *스포츠 현장에서 데이터를 읽고, 브랜드 경험을 설계합니다.*
+> *팬의 감정을 분석하고, 스폰서십을 통해 가치를 연결하는 일을 합니다.*
+
+<br>
+
+</div>
+
+---
+
+<!-- CURRENT FOCUS -->
+
+<div align="center">
+
+### 🚀 &nbsp; Now
+
+<br>
+
+| | 프로젝트 | 역할 |
+|:---:|:---|:---|
+| 🏟️ | **HYFF 2026** 유소년 축구 페스티벌 | 마케팅 총괄 기획 |
+| 🤝 | **스폰서십** 기업 제휴 및 파트너십 | 제안서 설계 · 협상 |
+| 📈 | **스포츠 팬 소비 행동** 분석 연구 | 데이터 수집 · 모델링 |
+| 💡 | **스포츠 ESG** 브랜디드 경험 설계 | 콘텐츠 · 캠페인 전략 |
+
+<br>
+
+</div>
+
+---
+
+<!-- SKILLS -->
+
+<div align="center">
+
+### 🛠 &nbsp; Tech & Tools
+
+<br>
+
+**Development & Data**
+
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=0d1117)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff88&labelColor=0d1117)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88&labelColor=0d1117)
 ![SQLD](https://img.shields.io/badge/SQLD-0d1117?style=for-the-badge&logo=databricks&logoColor=00ff88&labelColor=0d1117)
 
-#### 🎨 Creative & Design
+<br>
+
+**Creative & Design**
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF&labelColor=0d1117)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0d1117?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF&labelColor=0d1117)
 
-#### 📊 Marketing & Research
-![Survey Analysis](https://img.shields.io/badge/사회조사분석-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=00ff88&labelColor=0d1117)
+<br>
+
+**Marketing & Research**
+
+![Survey](https://img.shields.io/badge/사회조사분석-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=00ff88&labelColor=0d1117)
 ![Sponsorship](https://img.shields.io/badge/Sponsorship_Strategy-0d1117?style=for-the-badge&logo=handshake&logoColor=00ff88&labelColor=0d1117)
 
-</div>
-
----
-
-<!-- STATS -->
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cwond&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&icon_color=00cc66&text_color=cccccc&hide_border=false&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwond&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=cccccc&hide_border=false"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cwond&theme=dark&background=0d1117&border=00ff88&ring=00ff88&fire=ff6644&currStreakLabel=00ff88&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=666666"/>
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cwond&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=false&border_color=00ff88&title_color=00ff88)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
 </div>
 
 ---
 
-<!-- VISION SECTION -->
-## 💬 Philosophy
+<!-- GITHUB STATS -->
 
 <div align="center">
 
-> **"스포츠는 데이터로 분석되고, 브랜드로 기억되며, 경험으로 완성된다."**
->
-> *Sports is analyzed through data, remembered through brands, and completed through experience.*
+### 📊 &nbsp; GitHub Activity
+
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cwond&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&icon_color=00cc66&text_color=cccccc&hide_border=false&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwond&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=cccccc&hide_border=false"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Cwond&theme=dark&background=0d1117&border=00ff88&ring=00ff88&fire=ff6644&currStreakLabel=00ff88&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=666666"/>
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cwond&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=false&border_color=00ff88&title_color=00ff88)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+</div>
+
+---
+
+<!-- PHILOSOPHY -->
+
+<div align="center">
+
+<br>
+
+*" 스포츠는 데이터로 분석되고, 브랜드로 기억되며, 경험으로 완성된다. "*
+
+<br>
 
 </div>
 
 ---
 
 <!-- CONTACT -->
-## 📫 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-cdw94280@naver.com-0d1117?style=for-the-badge&logo=naver&logoColor=03C75A&labelColor=0d1117)](mailto:cdw94280@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Cwond-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/Cwond)
+### 📬 &nbsp; Contact
 
 <br>
 
+[![Email](https://img.shields.io/badge/cdw94280@naver.com-0d1117?style=for-the-badge&logo=naver&logoColor=03C75A&labelColor=0d1117)](mailto:cdw94280@naver.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/@Cwond-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/Cwond)
+
+<br><br>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cwond.Cwond&left_color=0d1117&right_color=00ff88&left_text=👀%20Profile%20Views)
+
+<br>
 
 </div>
 
 ---
 
 <!-- FOOTER -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0f0f0f&height=120&section=footer&text=&animation=fadeIn)
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0f0f0f&height=120&section=footer&animation=fadeIn)
+
+</div>
